@@ -13,4 +13,4 @@ Pablo Soto-Quiros is an Associate Professor from the *Instituto Tecnológico de 
 * En enlace del artículo científico es ??
 * ste artículo científico resume los aspectos computacionales más relevantes de la literatura sobre el problema de Fermat-Weber (FW). El problema FW tiene como objetivo calcular un punto que minimice la suma de las distancias euclidianas ponderadas a $p$ puntos fijos en el plano. Presentamos los pseudocódigos, análisis de convergencia, implementación computacional y simulaciones numéricas de todos los métodos explicados en este artículo científico. Al final, damos un ejemplo de procesamiento de imágenes para determinar la imagen representativa de un conjunto de imágenes. Todas las implementaciones computacionales se desarrollan en MATLAB.
 
-<p align="center"><img width="500" src="https://github.com/jusotoTEC/fermat_weber/blob/main/img/img1.jpg"></p>
+<p align="center"><img width="750" src="https://github.com/jusotoTEC/fermat_weber/blob/main/img/img1.jpg"></p>
