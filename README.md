@@ -15,3 +15,7 @@ Pablo Soto-Quiros is an Associate Professor from the *Instituto Tecnológico de 
 * Adicionalmente, este repositorio tiene una carpeta con nombre *FW Toolbox*, que contiene todos los algoritmos que dan solución al problema FW y sus respectivas variantes. Estos algoritmos están implementados en MATLAB.
 
 <p align="center"><img width="750" src="https://github.com/jusotoTEC/fermat_weber/blob/main/img/img1.jpg"></p>
+
+## Agradecimientos
+
+*FT Toolbox* y el artículo científico "*Aspectos Computacionales del Problema de Fermat-Weber y sus Algoritmos de Solución*" fueron desarrollado por el profesor Pablo Soto-Quiros en el proyecto Gen-FW (#1440042) en el periodo de Enero 2020 hasta Junio 2022. El proyecto Gen-FW está vinculado a la Vicerrectoría de Investigación y Extensión del Instituto Tecnológico de Costa Rica.
